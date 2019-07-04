@@ -1,6 +1,12 @@
 # ZKComponentDocument
 ZK组件使用文档说明。
 
+## 组件配置文件地址
+
+[ZK_Version](http://zkteam.cc/android/gradle/versions_1.gradle) : http://zkteam.cc/android/gradle/versions_1.gradle
+
+
+
 ## 相关组件
 
 - 事件总线：[ZKLiveEventBus](https://github.com/ZhuoKeTeam/ZKLiveEventBus)---> [![](https://jitpack.io/v/ZhuoKeTeam/ZKLiveEventBus.svg)](https://jitpack.io/#ZhuoKeTeam/ZKLiveEventBus)
