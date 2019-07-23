@@ -68,3 +68,5 @@ java -jar zkteam.jar TestW com.test.w /Users/WangQing/Desktop/demo1
           tools:node="removeAll"/>
 ```
 
+4. Activity 建议继承自 ZKSplashActivity， 默认包含侧边栏退出当前 Activity。
+
