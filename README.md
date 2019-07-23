@@ -5,6 +5,10 @@ ZK组件使用文档说明。
 
 [ZK_Version](http://zkteam.cc/android/gradle/versions_1.gradle) : http://zkteam.cc/android/gradle/versions_1.gradle
 
+## 快速使用说明（一分钟超快搭建一个 APP）
+
+
+
 
 
 ## 相关组件
